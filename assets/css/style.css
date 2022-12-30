@@ -60,11 +60,13 @@ figure {
     background-position: center;
 }
 
+/* Setting the image to appear on the left for the first and third article elements of the main*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Setting the image to appear on the right for the second article element of the main*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -76,6 +78,7 @@ main {
     margin-left: 20px;
 }
 
+/* Setting the properties of the aside element */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -145,7 +148,7 @@ main article {
 }
 
 
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -157,7 +160,7 @@ main article {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+#search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
