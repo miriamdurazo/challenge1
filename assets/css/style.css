@@ -121,18 +121,8 @@ article img {
     max-height: 200px;
 }
 
-/* The next 3 CSS selectors are for setting the properties of the headings in each article section */
-#search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/* Setting the properties of the headings in each article section */
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
