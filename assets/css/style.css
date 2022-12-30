@@ -147,7 +147,7 @@ main article {
     color: #ffffff;
 }
 
-
+/* The next 3 CSS selectors are for setting the max height for the images in each article section */
 #search-engine-optimization img {
     max-height: 200px;
 }
@@ -160,6 +160,7 @@ main article {
     max-height: 200px;
 }
 
+/* The next 3 CSS selectors are for setting the properties of the headings in each article section */
 #search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -175,6 +176,7 @@ main article {
     font-size: 36px;
 }
 
+/* Setting the properties of the footer */
 footer {
     padding: 30px;
     clear: both;
@@ -182,6 +184,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+/* Setting the font size of the heading of the footer */
+footer h4 {
     font-size: 20px;
 }
